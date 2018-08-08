@@ -1,1 +1,1 @@
-# udacity-frontend-nanodegree
+# frontend-nanodegree-portfolio
