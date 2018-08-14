@@ -1,5 +1,4 @@
-# udacity-frontend-nanodegree
+# frontend-mockup-to-article
 
 
-* [frontend-nanodegree-portfolio](https://github.com/someone-1/udacity-frontend-nanodegree/tree/frontend-nanodegree-portfolio)
-* [frontend-nanodegree-resume](https://github.com/someone-1/udacity-frontend-nanodegree/tree/frontend-nanodegree-resume)
+[PROJECT SPECIFICATION](https://review.udacity.com/#!/rubrics/145/view)
